@@ -84,7 +84,7 @@ Another way of downloading Go is directly from the terminal, but it downloads th
 <code>sudo apt-get install golang</code></p></li><li>
 <p>Check the version:<br>
 <code>go version</code><br>
-<img loading=lazy src=https://github.com/akrvs21/raider2107.github.io/blob/master/Service%20Computing/golangOnUbuntu/img/version.png alt>
+<img loading=lazy src=/version.png alt>
 </p></li><li>
 <p>Now it&rsquo;s time to set the environment variables, (1) open up the terminal and type these commands:<br>
 <code>mkdir -p $HOME/go-workspace/src</code></p></li></ol><p><code>mkdir -p $HOME/go-workspace/pkg</code></p><p><code>mkdir -p $HOME/go-workspace/bin</code><br>
@@ -95,7 +95,7 @@ Paste these lines and save the file: <br>
 <code>export PATH=$PATH:$GOROOT/bin:$GOPATH/bin</code></p><p>(3)In terminal: <code>source $HOME/.bashrc</code><br>
 5) Check all the environments configurations:<br>
 <code>go env</code><br>
-<img loading=lazy src=https://github.com/akrvs21/raider2107.github.io/blob/master/Service%20Computing/golangOnUbuntu/img/env.png alt>
+<img loading=lazy src=/env.png alt>
 </p><ol start=6>
 <li>Install <a href=https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-18-04>git</a> and download <code>go</code> tools: <br>
 <code>mkdir $GOPATH/src/golang.org/x/</code><br>
@@ -107,7 +107,7 @@ First configure github from terminal:<br>
 <code>git config --global user.email "email_id"</code><br>
 In directory:<code>$GOPATH/src/github.com/github-user/</code>(github-user is your Github username) create local repo:<br>
 <code>git init MyGoLangTest</code><br>
-This will create a folder MyGolangTest and <code>init</code> will initialize it as a repository.</li></ol><p><img loading=lazy src=https://github.com/akrvs21/raider2107.github.io/blob/master/Service%20Computing/golangOnUbuntu/img/path.png alt>
+This will create a folder MyGolangTest and <code>init</code> will initialize it as a repository.</li></ol><p><img loading=lazy src=/path.png alt>
 </p><p>Then we can write our code:<br>
 <code>code hello.go</code> -will open a VScode<br>
 Code:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go data-lang=go><span style=display:flex><span><span style=color:#f92672>package</span> <span style=color:#a6e22e>main</span>      
@@ -121,7 +121,7 @@ Code:</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-col
 <code>go run hello.go</code><br>
 <code>go install github.com/akrvs21/MyGolangTest</code> (change your own path)<br>
 <code>MyGolangTest</code><br>
-<img loading=lazy src=https://github.com/akrvs21/raider2107.github.io/blob/master/Service%20Computing/golangOnUbuntu/img/terminal.png alt>
+<img loading=lazy src=/terminal.png alt>
 </p><p>Upload to To Github:<br>
 <code>git add .</code><br>
 <code>git commit -m 'test'</code><br>

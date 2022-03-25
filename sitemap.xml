@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://akrvs21.github.io/tags/docker/</loc>
-    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://akrvs21.github.io/</loc>
     <lastmod>2022-03-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,23 +11,11 @@
     <loc>https://akrvs21.github.io/tags/</loc>
     <lastmod>2022-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akrvs21.github.io/posts/docker/</loc>
+    <loc>https://akrvs21.github.io/tags/ubuntu/</loc>
     <lastmod>2022-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://akrvs21.github.io/tags/go/</loc>
-    <lastmod>2022-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://akrvs21.github.io/posts/goonubuntu/</loc>
-    <lastmod>2022-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://akrvs21.github.io/tags/ubuntu/</loc>
-    <lastmod>2022-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://akrvs21.github.io/tags/first/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://akrvs21.github.io/posts/first_post/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>https://akrvs21.github.io/tags/virtual-box/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://akrvs21.github.io/categories/</loc>
   </url>

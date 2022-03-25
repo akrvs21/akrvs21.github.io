@@ -12,10 +12,10 @@
     <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://akrvs21.github.io/tags/virtual-box/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making a private cloud with Virtual Box</title>
-      <link>https://akrvs21.github.io/posts/</link>
+      <link>https://akrvs21.github.io/posts/private_cloud/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://akrvs21.github.io/posts/</guid>
+      <guid>https://akrvs21.github.io/posts/private_cloud/</guid>
       <description>Making a private cloud with Virtual Box In this lab we are going to learn how to install, configure and understand how the cloud technology work. I&amp;rsquo;m using Win10 in the host computer and Ubuntu for Virtual machine. For virtualization,in this example, i use Virtual Box, can use VMware as well(steps almost same). You can donwnload all the above software in the links below:
 Ubuntu Virtual Box Virtual Box Extension 1) First do the installation of Virtual Box and install Ubuntu on it.</description>
     </item>

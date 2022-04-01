@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Picasso on ExampleSite</title>
+    <link>https://akrvs21.github.io/tags/picasso/</link>
+    <description>Recent content in Picasso on ExampleSite</description>
+    <image>
+      <url>https://akrvs21.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://akrvs21.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 29 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://akrvs21.github.io/tags/picasso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to populate RecyclerView with data from server</title>
+      <link>https://akrvs21.github.io/posts/recyclerview/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://akrvs21.github.io/posts/recyclerview/</guid>
+      <description>What is the goal? In this article I will review how to create custom RecyclerView, how to fetch the data from the external API using Retrofit and display the result in the RecyclerView.
+The final result should be as below:
+What is the RecyclerView and why you should use it? From Android developers documentation
+ RecyclerView makes it easy to efficiently display large sets of data. You supply the data and define how each item looks, and the RecyclerView library dynamically creates the elements when they&amp;rsquo;re needed.</description>
+    </item>
+    
+  </channel>
+</rss>

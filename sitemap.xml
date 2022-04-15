@@ -2,31 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://akrvs21.github.io/tags/cache-memory/</loc>
-    <lastmod>2022-04-15T00:00:00+00:00</lastmod>
+    <loc>https://akrvs21.github.io/tags/android/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://akrvs21.github.io/</loc>
-    <lastmod>2022-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://akrvs21.github.io/posts/async_recycler_view/</loc>
-    <lastmod>2022-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://akrvs21.github.io/tags/lrucache/</loc>
-    <lastmod>2022-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://akrvs21.github.io/posts/</loc>
-    <lastmod>2022-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://akrvs21.github.io/tags/recyclerview/</loc>
-    <lastmod>2022-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://akrvs21.github.io/tags/</loc>
-    <lastmod>2022-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://akrvs21.github.io/tags/thread/</loc>
-    <lastmod>2022-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://akrvs21.github.io/tags/android/</loc>
     <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://akrvs21.github.io/posts/recyclerview/</loc>
@@ -35,7 +14,16 @@
     <loc>https://akrvs21.github.io/tags/picasso/</loc>
     <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://akrvs21.github.io/posts/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://akrvs21.github.io/tags/recyclerview/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://akrvs21.github.io/tags/retrofit/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://akrvs21.github.io/tags/</loc>
     <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://akrvs21.github.io/tags/docker/</loc>

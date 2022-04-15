@@ -16,7 +16,7 @@
       <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://akrvs21.github.io/posts/async_recycler_view/</guid>
-      <description>What is the goal? In the last post, I demonstated how to create a RecyclerView and load data from the external API, particularly we used Picasso library to load and cache images for us. In this post I will show how to mannually do that without use of any libraries. For the purpose of easy reading, I will start from the begging and go through all the steps one more time.</description>
+      <description>What is the goal? In the last post, I demonstated how to create a RecyclerView and load data from the external API, particularly we used Picasso library to load and cache images for us. In this post I will show how to mannually do that without use of any libraries. To not repeat myself, in this article I will just post the code for new added classes and code where changes were made, the rest of the code is the same with previous post.</description>
     </item>
     
     <item>

@@ -55,5 +55,14 @@ sudo apt-get install golang
   Check the version:</description>
     </item>
     
+    <item>
+      <title>How to load and cache images from URL to RecyclerView without using 3rd party libraries</title>
+      <link>https://akrvs21.github.io/posts/async_recycler_view/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akrvs21.github.io/posts/async_recycler_view/</guid>
+      <description>What is the goal? In the last post, I demonstated how to create a RecyclerView and load data from the external API, particularly we used Picasso library to load and cache images for us. In this post I will show how to mannually do that without use of any libraries. For the purpose of easy reading, I will start from the begging and go through all the steps one more time.</description>
+    </item>
+    
   </channel>
 </rss>

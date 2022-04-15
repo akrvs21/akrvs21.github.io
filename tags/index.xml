@@ -82,5 +82,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Cache memory</title>
+      <link>https://akrvs21.github.io/tags/cache-memory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akrvs21.github.io/tags/cache-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LruCache</title>
+      <link>https://akrvs21.github.io/tags/lrucache/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akrvs21.github.io/tags/lrucache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thread</title>
+      <link>https://akrvs21.github.io/tags/thread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akrvs21.github.io/tags/thread/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

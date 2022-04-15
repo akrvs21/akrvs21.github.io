@@ -11,7 +11,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 15 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://akrvs21.github.io/tags/recyclerview/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to load and cache images from URL to RecyclerView without using 3rd party libraries</title>
+      <title>How to load and cache images from URL to RecyclerView without using 3rd party libraries in Android</title>
       <link>https://akrvs21.github.io/posts/async_recycler_view/</link>
       <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
       
@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>How to populate RecyclerView with data from server</title>
+      <title>How to populate RecyclerView with data from server in Android</title>
       <link>https://akrvs21.github.io/posts/recyclerview/</link>
       <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
       
